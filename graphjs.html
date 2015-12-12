@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-	<html>
-    <head>
-    <meta charset="utf-8" />
-    <title>Graph</title>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Graph</title>
 	<script src="Chart.js-master/Chart.js"></script>
-    </head>
-    <body>
+</head>
+<body>
 	<?php 
-		$label = array("203000", "15600", "99000", "25100", "30500", "24700");
-		echo $label[0];
+	$label = array("203000", "15600", "99000", "25100", "30500", "24700");
+	echo $label[0];
 	?>
-    <canvas id="mygraph" width="500" height="400"></canvas>
-    <script>
+	<canvas id="mygraph" width="500" height="400"></canvas>
+	<script>
 	var riceData = {
 		labels : ["January","February","March","April","May","June"],
 		datasets : [
@@ -28,5 +28,5 @@
 	var rice = document.getElementById('mygraph').getContext('2d');
 	new Chart(rice).Bar(riceData);
 	</script>
-    </body>
-    </html>
+</body>
+</html>
