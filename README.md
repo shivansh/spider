@@ -1,2 +1,12 @@
-# Google-Scholar
-An improved interface for using Google Scholar, entry for Takneek'15 for WebDev
+```
+ _____                   _        _____                    _           
+|  __ \                 | |      /  __ \                  | |          
+| |  \/ ___   ___   __ _| | ___  | /  \/_ __ __ ___      _| | ___ _ __ 
+| | __ / _ \ / _ \ / _` | |/ _ \ | |   | '__/ _` \ \ /\ / / |/ _ \ '__|
+| |_\ \ (_) | (_) | (_| | |  __/ | \__/\ | | (_| |\ V  V /| |  __/ |   
+ \____/\___/ \___/ \__, |_|\___|  \____/_|  \__,_| \_/\_/ |_|\___|_|   
+                    __/ |                                              
+                   |___/                                               
+```
+================
+An improved interface for using Google Scholar, runner up entry in Takneek'15 for WebDev.
